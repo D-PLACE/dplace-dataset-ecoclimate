@@ -1,0 +1,8 @@
+{
+    "id": "dplace-dataset-ecoclimate",
+    "title": "D-PLACE dataset derived from Lima-Ribeiro et al. 2015 'ecoClimate'",
+    "description": "Dataset Baseline Historical (1900-1949), CCSM ecoClimate model",
+    "license": "CC-BY-NC-SA-4.0",
+    "url": "https://www.ecoclimate.org/",
+    "citation": "Lima-Ribeiro MS; Varela S; González-Hernández J; Oliveira G; Diniz-Filho JAF; Terribile LC. 2015. ecoClimate: a database of climate data from multiple models for past, present, and future for Macroecologists and Biogeographers Biodiversity Informatics 10, 1-21. DOI: 10.17161/bi.v10i0.4955\n\nLima-Ribeiro MS; Varela S; González-Hernández J; Oliveira G; Diniz-Filho JAF; Peterson AT; Terribile LC. The ecoClimate Database, http://ecoclimate.org"
+}

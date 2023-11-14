@@ -1,0 +1,103 @@
+{
+    "creators": [
+        {
+            "name": "Lima-Ribeiro MS"
+        },
+        {
+            "name": "Varela S"
+        },
+        {
+            "name": "Gonz\u00e1lez-Hern\u00e1ndez J"
+        },
+        {
+            "name": "Oliveira G"
+        },
+        {
+            "name": "Diniz-Filho JAF"
+        },
+        {
+            "name": "Peterson AT"
+        },
+        {
+            "name": "Terribile LC"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Kathryn R. Kirby",
+            "type": "Editor"
+        },
+        {
+            "name": "Russell D. Gray",
+            "type": "Editor"
+        },
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Editor"
+        },
+        {
+            "name": "Fiona M. Jordan",
+            "type": "Editor"
+        },
+        {
+            "name": "Stephanie Gomes-Ng",
+            "type": "Editor"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko",
+            "type": "Editor"
+        },
+        {
+            "name": "Dami\u00e1n E. Blasi",
+            "type": "Editor"
+        },
+        {
+            "name": "Carlos A. Botero",
+            "type": "Editor"
+        },
+        {
+            "name": "Claire Bowern",
+            "type": "Editor"
+        },
+        {
+            "name": "Carol R. Ember",
+            "type": "Editor"
+        },
+        {
+            "name": "Dan Leehr",
+            "type": "Editor"
+        },
+        {
+            "name": "Bobbi S. Low",
+            "type": "Editor"
+        },
+        {
+            "name": "Joe McCarter",
+            "type": "Editor"
+        },
+        {
+            "name": "William Divale",
+            "type": "Editor"
+        },
+        {
+            "name": "Michael C. Gavin",
+            "type": "Editor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "dplace"
+        }
+    ],
+    "title": "D-PLACE dataset derived from Lima-Ribeiro et al. 2015 'ecoClimate'",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Lima-Ribeiro MS; Varela S; Gonz\u00e1lez-Hern\u00e1ndez J; Oliveira G; Diniz-Filho JAF; Terribile LC. 2015. ecoClimate: a database of climate data from multiple models for past, present, and future for Macroecologists and Biogeographers Biodiversity Informatics 10, 1-21. DOI: 10.17161/bi.v10i0.4955\n\nLima-Ribeiro MS; Varela S; Gonz\u00e1lez-Hern\u00e1ndez J; Oliveira G; Diniz-Filho JAF; Peterson AT; Terribile LC. The ecoClimate Database, http://ecoclimate.org</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-SA-4.0"
+    }
+}
