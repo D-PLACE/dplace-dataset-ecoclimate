@@ -16,7 +16,7 @@ Lima-Ribeiro MS; Varela S; González-Hernández J; Oliveira G; Diniz-Filho JAF; 
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by-nc-sa/4.0/
 [dc:references](http://purl.org/dc/terms/references) | <ol><li>dplace-dataset-ea</li><li>dplace-dataset-binford</li><li>dplace-dataset-sccs</li><li>dplace-dataset-wnai</li></ol>
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/D-PLACE/dplace-dataset-ecoclimate
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/D-PLACE/dplace-dataset-ecoclimate/tree/91abd17">D-PLACE/dplace-dataset-ecoclimate 91abd17</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/D-PLACE/dplace-dataset-ecoclimate/tree/277751b">D-PLACE/dplace-dataset-ecoclimate 277751b</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.10.12</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | dplace-dataset-ecoclimate
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
